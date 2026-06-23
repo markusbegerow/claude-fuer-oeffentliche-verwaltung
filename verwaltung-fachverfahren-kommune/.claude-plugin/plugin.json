@@ -1,0 +1,9 @@
+{
+  "name": "verwaltung-fachverfahren-kommune",
+  "version": "001.0.0",
+  "description": "Fachverfahren der Kommunalverwaltung und Buergerdienste: Einwohnermeldeamt, Standesamt, Auslaenderbehoerde, Wahlamt, kommunales Finanzwesen, Buergerportale und serviceorientierte Verwaltungsleistungen.",
+  "license": "Apache-2.0 OR MIT",
+  "author": { "name": "Markus Begerow" },
+  "homepage": "https://github.com/markusbegerow/claude-fuer-oeffentliche-verwaltung",
+  "keywords": ["einwohnermeldeamt", "standesamt", "auslaenderbehoerde", "wahlamt", "kommunalfinanzen", "buergerportal", "heimat-app", "buergerdienste", "schulverwaltung", "digitales-bildungswesen"]
+}

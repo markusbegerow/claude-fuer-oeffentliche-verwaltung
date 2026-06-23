@@ -1,0 +1,22 @@
+# Lizenz
+
+Dieses Repository steht unter einer dualen Lizenz zur Wahl:
+
+- **Apache License 2.0** — siehe [LICENSE-APACHE](LICENSE-APACHE)
+- **MIT License** — siehe [LICENSE-MIT](LICENSE-MIT)
+
+Du kannst frei wählen, unter welcher der beiden Lizenzen du dieses Werk nutzt,
+kopierst, veränderst oder weiterverbreitest ("Apache-2.0 OR MIT").
+
+Copyright (c) 2026 Markus Begerow
+
+## Wichtiger Hinweis (keine Lizenz für Beratungs- oder Verwaltungsleistungen)
+
+Die Lizenz betrifft ausschließlich den **Quelltext und die Inhalte dieses
+Repositories** (Skills, Prompts, Dokumentation, Scripts). Sie ersetzt **keine**
+rechtliche, datenschutzrechtliche oder IT-sicherheitsrechtliche Einzelfallprüfung
+durch die zuständige Fachstelle und keine verbindliche Entscheidung der
+zuständigen Behörde. Jede Nutzerin und jeder Nutzer trägt die alleinige
+Verantwortung dafür, ob und wie die mit diesem Repository erzeugten Texte im
+Einzelfall verwendet werden dürfen. Siehe README.md und CLAUDE.md für die
+vollständigen Disclaimer.

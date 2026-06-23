@@ -1,0 +1,27 @@
+{
+  "name": "verwaltung-digitalisierung-ki",
+  "version": "001.0.0",
+  "description": "Digitale Verwaltung und Staatsmodernisierung: OZG-Umsetzung, FIT-Connect, FIM-Bausteine, digitale Identitaeten, elektronische Signaturen/Siegel, KI-Einsatz in Behoerden, Registermodernisierung, Interoperabilitaet, Barrierefreiheit und Deutschland-Stack.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Markus Begerow"
+  },
+  "homepage": "https://github.com/markusbegerow/claude-fuer-oeffentliche-verwaltung",
+  "keywords": [
+    "ozg",
+    "e-government",
+    "fit-connect",
+    "fim",
+    "digitale-identitaet",
+    "ki-verwaltung",
+    "registermodernisierung",
+    "interoperabilitaet",
+    "barrierefreiheit",
+    "deutschland-stack",
+    "prozessautomatisierung",
+    "eudi-wallet",
+    "open-data",
+    "it-grundschutz",
+    "dsfa"
+  ]
+}

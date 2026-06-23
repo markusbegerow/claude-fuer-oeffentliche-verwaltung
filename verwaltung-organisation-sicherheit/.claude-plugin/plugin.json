@@ -1,0 +1,23 @@
+{
+  "name": "verwaltung-organisation-sicherheit",
+  "version": "001.0.0",
+  "description": "Organisationsentwicklung, foederale Zusammenarbeit, Wissensmanagement und Sicherheit/Blaulicht: Changemanagement, Weiterbildung, Laenderkooperation, Krisenmanagement und interbehoerdliche Kommunikation.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Markus Begerow"
+  },
+  "homepage": "https://github.com/markusbegerow/claude-fuer-oeffentliche-verwaltung",
+  "keywords": [
+    "changemanagement",
+    "weiterbildung",
+    "wissensmanagement",
+    "foederale-zusammenarbeit",
+    "krisenmanagement",
+    "diversity",
+    "new-work",
+    "projektmanagement",
+    "innovationsmanagement",
+    "fachkraeftemangel",
+    "digitale-dividende"
+  ]
+}

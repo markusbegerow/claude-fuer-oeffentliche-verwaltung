@@ -1,0 +1,37 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "verwaltung-skills",
+  "description": "Verwaltung-Skills - experimentelle Claude-Code-Plugins fuer Digitalisierung, Fachverfahren und Organisation der oeffentlichen Verwaltung in Deutschland. Keine Rechtsberatung, keine verbindliche Entscheidung der zustaendigen Behoerde.",
+  "owner": {
+    "name": "Markus Begerow"
+  },
+  "plugins": [
+    {
+      "name": "verwaltung-digitalisierung-ki",
+      "source": "./verwaltung-digitalisierung-ki",
+      "description": "Digitale Verwaltung und Staatsmodernisierung: OZG-Umsetzung, FIT-Connect, FIM-Bausteine, digitale Identitaeten, elektronische Signaturen/Siegel, KI-Einsatz in Behoerden, Registermodernisierung, Interoperabilitaet, Barrierefreiheit und Deutschland-Stack.",
+      "version": "001.0.0",
+      "author": {
+        "name": "Markus Begerow"
+      }
+    },
+    {
+      "name": "verwaltung-fachverfahren-kommune",
+      "source": "./verwaltung-fachverfahren-kommune",
+      "description": "Fachverfahren der Kommunalverwaltung und Buergerdienste: Einwohnermeldeamt, Standesamt, Auslaenderbehoerde, Wahlamt, kommunales Finanzwesen, Buergerportale und serviceorientierte Verwaltungsleistungen.",
+      "version": "001.0.0",
+      "author": {
+        "name": "Markus Begerow"
+      }
+    },
+    {
+      "name": "verwaltung-organisation-sicherheit",
+      "source": "./verwaltung-organisation-sicherheit",
+      "description": "Organisationsentwicklung, foederale Zusammenarbeit, Wissensmanagement und Sicherheit/Blaulicht: Changemanagement, Weiterbildung, Laenderkooperation, Krisenmanagement und interbehoerdliche Kommunikation.",
+      "version": "001.0.0",
+      "author": {
+        "name": "Markus Begerow"
+      }
+    }
+  ]
+}
