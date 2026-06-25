@@ -1,5 +1,7 @@
 # Claude Skills für die Öffentliche Verwaltung
 
+<img alt="claude-fuer-oeffentliche-verwaltung" src="https://github.com/user-attachments/assets/3630444d-df83-4d9c-bcb2-cd2d693df479" />
+
 > **Wichtiger Hinweis:** Dieses Repository ist eine experimentelle
 > Sammlung von Claude-Code-Skills zu Digitalisierung, Fachverfahren und
 > Organisation der oeffentlichen Verwaltung in Deutschland. Es ersetzt
