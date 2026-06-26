@@ -5,5 +5,7 @@
   "license": "Apache-2.0 OR MIT",
   "author": { "name": "Markus Begerow" },
   "homepage": "https://github.com/markusbegerow/claude-fuer-oeffentliche-verwaltung",
+  "repository": "https://github.com/markusbegerow/claude-fuer-oeffentliche-verwaltung",
+  "category": "government",
   "keywords": ["einwohnermeldeamt", "standesamt", "auslaenderbehoerde", "wahlamt", "kommunalfinanzen", "buergerportal", "heimat-app", "buergerdienste", "schulverwaltung", "digitales-bildungswesen"]
 }

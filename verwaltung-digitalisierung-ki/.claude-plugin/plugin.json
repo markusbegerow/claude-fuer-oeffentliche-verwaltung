@@ -7,6 +7,8 @@
     "name": "Markus Begerow"
   },
   "homepage": "https://github.com/markusbegerow/claude-fuer-oeffentliche-verwaltung",
+  "repository": "https://github.com/markusbegerow/claude-fuer-oeffentliche-verwaltung",
+  "category": "government",
   "keywords": [
     "ozg",
     "e-government",

@@ -42,6 +42,35 @@ sich in `oeffentliche-verwaltung-themen.md`.
 Ausfuehrliche Installationsanleitung fuer Einsteigerinnen und Einsteiger:
 `INSTALLATION_EINFACH.md`.
 
+## Installation via Claude Code Marketplace
+
+Die einfachste Methode: Marktplatz einmalig hinzufuegen, danach einzelne
+Plugins installieren.
+
+```
+/plugin marketplace add markusbegerow/claude-fuer-oeffentliche-verwaltung
+```
+
+Anschliessend gewuenschte Plugins installieren (einzeln oder alle drei):
+
+```
+/plugin install verwaltung-digitalisierung-ki@verwaltung-skills
+/plugin install verwaltung-fachverfahren-kommune@verwaltung-skills
+/plugin install verwaltung-organisation-sicherheit@verwaltung-skills
+```
+
+Skills sind dann mit Plugin-Namen als Praefix aufrufbar, z. B.:
+
+```
+/verwaltung-digitalisierung-ki:ozg-umsetzung-pruefung
+```
+
+Updates beziehen:
+
+```
+/plugin marketplace update verwaltung-skills
+```
+
 ## Regelwerk
 
 Alle Skills folgen dem Regelwerk in `CLAUDE.md` (vollstaendig) und

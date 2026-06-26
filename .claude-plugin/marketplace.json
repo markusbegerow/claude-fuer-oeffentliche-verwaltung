@@ -3,35 +3,45 @@
   "name": "verwaltung-skills",
   "description": "Verwaltung-Skills - experimentelle Claude-Code-Plugins fuer Digitalisierung, Fachverfahren und Organisation der oeffentlichen Verwaltung in Deutschland. Keine Rechtsberatung, keine verbindliche Entscheidung der zustaendigen Behoerde.",
   "owner": {
-    "name": "Markus Begerow"
+    "name": "Markus Begerow",
+    "email": "mail@markus-begerow.de"
   },
   "plugins": [
     {
       "name": "verwaltung-digitalisierung-ki",
+      "displayName": "Verwaltung Digitalisierung & KI",
       "source": "./verwaltung-digitalisierung-ki",
       "description": "Digitale Verwaltung und Staatsmodernisierung: OZG-Umsetzung, FIT-Connect, FIM-Bausteine, digitale Identitaeten, elektronische Signaturen/Siegel, KI-Einsatz in Behoerden, Registermodernisierung, Interoperabilitaet, Barrierefreiheit und Deutschland-Stack.",
-      "version": "001.0.0",
+      "category": "government",
       "author": {
         "name": "Markus Begerow"
-      }
+      },
+      "homepage": "https://github.com/markusbegerow/claude-fuer-oeffentliche-verwaltung",
+      "repository": "https://github.com/markusbegerow/claude-fuer-oeffentliche-verwaltung"
     },
     {
       "name": "verwaltung-fachverfahren-kommune",
+      "displayName": "Verwaltung Fachverfahren & Kommune",
       "source": "./verwaltung-fachverfahren-kommune",
       "description": "Fachverfahren der Kommunalverwaltung und Buergerdienste: Einwohnermeldeamt, Standesamt, Auslaenderbehoerde, Wahlamt, kommunales Finanzwesen, Buergerportale und serviceorientierte Verwaltungsleistungen.",
-      "version": "001.0.0",
+      "category": "government",
       "author": {
         "name": "Markus Begerow"
-      }
+      },
+      "homepage": "https://github.com/markusbegerow/claude-fuer-oeffentliche-verwaltung",
+      "repository": "https://github.com/markusbegerow/claude-fuer-oeffentliche-verwaltung"
     },
     {
       "name": "verwaltung-organisation-sicherheit",
+      "displayName": "Verwaltung Organisation & Sicherheit",
       "source": "./verwaltung-organisation-sicherheit",
       "description": "Organisationsentwicklung, foederale Zusammenarbeit, Wissensmanagement und Sicherheit/Blaulicht: Changemanagement, Weiterbildung, Laenderkooperation, Krisenmanagement und interbehoerdliche Kommunikation.",
-      "version": "001.0.0",
+      "category": "government",
       "author": {
         "name": "Markus Begerow"
-      }
+      },
+      "homepage": "https://github.com/markusbegerow/claude-fuer-oeffentliche-verwaltung",
+      "repository": "https://github.com/markusbegerow/claude-fuer-oeffentliche-verwaltung"
     }
   ]
 }
