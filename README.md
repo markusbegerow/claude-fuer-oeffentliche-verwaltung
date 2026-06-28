@@ -1,7 +1,7 @@
 # Claude Skills für die Öffentliche Verwaltung
 
 <p align="center">
-<img alt="claude-fuer-oeffentliche-verwaltung" src="https://github.com/user-attachments/assets/3630444d-df83-4d9c-bcb2-cd2d693df479" />
+<img alt="613278697-3630444d-df83-4d9c-bcb2-cd2d693df479" src="https://github.com/user-attachments/assets/8b0b2cf1-403a-451c-b0a9-7cb29e2e724e" />
 </p>
 
 > **Wichtiger Hinweis:** Dieses Repository ist eine experimentelle
